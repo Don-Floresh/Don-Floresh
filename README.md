@@ -5,4 +5,4 @@
 - 📫 How to reach me IG:@o_henrique_flores
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: looking for help with learning programming and automation
-:) 
+- software engineering student
